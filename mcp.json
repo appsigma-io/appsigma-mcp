@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "appsigma": {
+      "url": "https://appsigma.io/mcp"
+    },
+    "appsigma-data": {
+      "url": "https://api.appsigma.io/mcp"
+    }
+  }
+}

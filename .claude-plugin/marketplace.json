@@ -1,0 +1,18 @@
+{
+  "name": "appsigma-mcp",
+  "description": "AppSigma: App Store ASO for your AI agent.",
+  "owner": {
+    "name": "AppSigma",
+    "email": "mcp@appsigma.io",
+    "url": "https://appsigma.io"
+  },
+  "plugins": [
+    {
+      "name": "appsigma",
+      "source": "./",
+      "description": "Keyword rankings, competitors and review analysis of your apps, plus reviews, ratings, charts and prices of any iOS app.",
+      "category": "marketing",
+      "tags": ["app-store", "aso", "ios"]
+    }
+  ]
+}

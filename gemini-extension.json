@@ -1,0 +1,13 @@
+{
+  "name": "appsigma",
+  "version": "1.0.0",
+  "description": "App Store ASO for your AI agent: keyword rankings, competitors and review analysis of your apps, plus reviews, ratings, charts and prices of any iOS app.",
+  "mcpServers": {
+    "appsigma": {
+      "httpUrl": "https://appsigma.io/mcp"
+    },
+    "appsigma-data": {
+      "httpUrl": "https://api.appsigma.io/mcp"
+    }
+  }
+}

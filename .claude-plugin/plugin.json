@@ -1,0 +1,20 @@
+{
+  "name": "appsigma",
+  "displayName": "AppSigma",
+  "version": "1.0.0",
+  "description": "App Store ASO for your AI agent: keyword rankings, competitors and review analysis of your apps, plus reviews, ratings, charts and prices of any iOS app.",
+  "author": {
+    "name": "AppSigma",
+    "email": "mcp@appsigma.io",
+    "url": "https://appsigma.io"
+  },
+  "homepage": "https://appsigma.io/agent",
+  "repository": "https://github.com/appsigma-io/appsigma-mcp",
+  "license": "MIT",
+  "keywords": ["app-store", "aso", "ios", "keywords", "reviews", "app-analytics"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://docs.appsigma.io",
+  "supportUrl": "https://appsigma.io/contact",
+  "privacyPolicyUrl": "https://appsigma.io/privacy",
+  "termsOfServiceUrl": "https://appsigma.io/terms"
+}
